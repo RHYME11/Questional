@@ -1,6 +1,6 @@
 1. creat a new repository on the website;
 2. git clone "website";
-3. everytime create a new file under repository in terminal:
+3. everytime create or modify a new file under repository in terminal:
    3.1 git add filename;
    3.2 git commit -am "what you did" (record what you did)
    3.3 git push origin main (push those files to main)
