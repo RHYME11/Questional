@@ -1,2 +1,11 @@
 README.md:
     ".md" = markdown
+
+git commit -am "add guideline.txt":
+    record what you did; add the comments in the history;
+
+
+
+
+
+
